@@ -7,7 +7,7 @@ const randomIntegerFromInterval = (min, max) => {
 };
 
 setTimeout(() => {
-    console.log(`Task 3`);
+  console.log(`Task 3`);
 }, 0);
 
 const makeTransaction = transaction => {
